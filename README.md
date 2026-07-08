@@ -1,2 +1,2 @@
 # MedBuddy-ML
-Heart Disease Prediction System using Machine Learning
+Production-ready Heart Disease Prediction System using FastAPI, Streamlit, Scikit-learn and AWS EC2.
